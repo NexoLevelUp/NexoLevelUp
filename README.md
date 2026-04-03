@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Marco Avila</h1>
+<p align="center">
+  Full Stack Developer
+</p>
 
-<!--
-**NexoLevelUp/NexoLevelUp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,ts,sql" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About me
+
+Full Stack Developer focused on building real applications, optimizing processes and solving business problems through software.
+
+I build web and mobile applications with a strong focus on backend architecture and real business needs.
+
+- Experience in full stack development  
+- Focused on scalable and maintainable solutions  
+- Interested in building products that solve real problems  
+
+---
+
+## ⚙️ Tech Stack
+
+**Frontend**
+- Next.js, React
+
+**Backend**
+- NestJS, Node.js
+
+**Mobile**
+- React Native
+
+**Database**
+- SQL Server
+
+---
+
+## 🚀 What I’m working on
+
+- Building full stack applications with real business use cases  
+- Improving backend architecture and database performance  
+- Developing mobile apps with React Native  
+
+---
+
+## 📫 Contact
+
+- Email: devnexup@gmail.com 
