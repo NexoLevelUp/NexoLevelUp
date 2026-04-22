@@ -2,6 +2,8 @@
 <p align="center">
   Full Stack Developer focused on building real applications, optimizing processes and solving business problems through software.
 </p>
+<img width="1536" height="1024" alt="Aquí vamos de nuevo, con programación" src="https://github.com/user-attachments/assets/7af1fee1-b373-45cb-9649-6119267bc2a7" />
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,postgres,mysql" />
